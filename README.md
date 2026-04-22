@@ -60,7 +60,6 @@
 ## 💼 Experience
 - **동양미래대학교** 컴퓨터소프트웨어공학과 재학
 - **DeCode 프로젝트 팀** 팀장 및 아키텍트
-- **MRA(52, 53기) / EL(24기)** 총무 역임 (예산 및 대규모 행사 기획)
 - **Technical Interest:** DIY Audio Electronics, 하드웨어 유지보수 및 커스텀 페달 제작
 
 <br/>
@@ -68,7 +67,7 @@
 ## 📬 Contact
 <p>
   <a href="https://github.com/Dungsu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="mailto:당신의이메일@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:tlsehdtn1234asd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 <br/>
